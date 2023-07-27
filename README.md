@@ -1,1 +1,1 @@
-My as-simple-as-possible personal homepage
+My simple personal homepage.
